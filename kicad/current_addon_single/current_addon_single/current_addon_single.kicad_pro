@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "voltagerecorder.kicad_pro",
+    "filename": "current_addon_single.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -318,24 +318,8 @@
   },
   "sheets": [
     [
-      "872e1765-bfc8-4f9d-a2bb-11c38c5a2735",
+      "992cbd86-527e-4565-9ad0-7da69b9d2460",
       ""
-    ],
-    [
-      "7e179314-4bf7-4ffb-a67b-251b8dff585a",
-      "voltage_input"
-    ],
-    [
-      "2deb2c64-d3e5-4671-841a-951b78b8b662",
-      "voltage_input1"
-    ],
-    [
-      "7059b8d3-80b8-47f9-88bd-aa06e41fe12f",
-      "voltage_input2"
-    ],
-    [
-      "0c8f4a90-fa6c-4fe4-b00c-403920b0b0c2",
-      "voltage_input3"
     ]
   ],
   "text_variables": {}
